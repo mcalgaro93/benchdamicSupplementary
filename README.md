@@ -1,6 +1,6 @@
 # benchdamicSupplementary
 
-![](logo/benchdamic_logo_rainbow.png)
+![](/logo/benchdamic_logo_rainbow.png)
 
 To produce the "supplementary_information.pdf" file please follow the next instructions, also contained in the "R/pkg_setting.R" file:
 
