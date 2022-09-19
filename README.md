@@ -1,6 +1,6 @@
 # benchdamicSupplementary
 
-![benchdamic logo](./logo/benchdamic_logo_rainbow.png)
+![](logo/benchdamic_logo_rainbow.png)
 
 <img src="./logo/benchdamic_logo_rainbow.png" align="right" alt="" width="120" />
 
