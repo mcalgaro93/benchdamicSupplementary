@@ -1,7 +1,6 @@
+<img src="./logo/benchdamic_sticker_rainbow.png" align="right" width="120" />
+
 # benchdamicSupplementary
-
-<img src="./logo/benchdamic_sticker_rainbow.png" align="right" alt="" width="120" />
-
 
 To produce the "supplementary_information.pdf" file please follow the next instructions, also contained in the "R/pkg_setting.R" file:
 
