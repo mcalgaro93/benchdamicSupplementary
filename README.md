@@ -2,8 +2,6 @@
 
 ![](logo/benchdamic_logo_rainbow.png)
 
-<img src="./logo/benchdamic_logo_rainbow.png" align="right" alt="" width="120" />
-
 To produce the "supplementary_information.pdf" file please follow the next instructions, also contained in the "R/pkg_setting.R" file:
 
 - With the new version of detectseparation v0.3, corncob v0.2 stopped working. For this reason we need to make sure that the older version of detectseparation (v0.2) is installed:
