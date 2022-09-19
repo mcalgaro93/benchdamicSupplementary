@@ -1,0 +1,1075 @@
+[
+	{
+		"id": "calgaro",
+		"type": "article-journal",
+		"abstract": "The correct identification of differentially abundant microbial taxa between experimental conditions is a methodological and computational challenge. Recent work has produced methods to deal with the high sparsity and compositionality characteristic of microbiome data, but independent benchmarks comparing these to alternatives developed for RNA-seq data analysis are lacking.",
+		"container-title": "Genome Biology",
+		"DOI": "10.1186/s13059-020-02104-1",
+		"ISSN": "1474-760X",
+		"issue": "1",
+		"journalAbbreviation": "Genome Biology",
+		"page": "191",
+		"source": "BioMed Central",
+		"title": "Assessment of statistical methods from single cell, bulk RNA-seq, and metagenomics applied to microbiome data",
+		"URL": "https://doi.org/10.1186/s13059-020-02104-1",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Calgaro",
+				"given": "Matteo"
+			},
+			{
+				"family": "Romualdi",
+				"given": "Chiara"
+			},
+			{
+				"family": "Waldron",
+				"given": "Levi"
+			},
+			{
+				"family": "Risso",
+				"given": "Davide"
+			},
+			{
+				"family": "Vitulo",
+				"given": "Nicola"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "cigarettes",
+		"type": "article-journal",
+		"abstract": "PURPOSE: The effect of tobacco exposure on the oral microbiome has not been established.\nMETHODS: We performed amplicon sequencing of the 16S ribosomal RNA gene V4 variable region to estimate bacterial community characteristics in 259 oral rinse samples, selected based on self-reported smoking and serum cotinine levels, from the 2013-2014 New York City Health and Nutrition Examination Study. We identified differentially abundant operational taxonomic units (OTUs) by primary and secondhand tobacco exposure, and used \"microbe set enrichment analysis\" to assess shifts in microbial oxygen utilization.\nRESULTS: Cigarette smoking was associated with depletion of aerobic OTUs (Enrichment Score test statistic ES = -0.75, P = .002) with a minority (29%) of aerobic OTUs enriched in current smokers compared with never smokers. Consistent shifts in the microbiota were observed for current cigarette smokers as for nonsmokers with secondhand exposure as measured by serum cotinine levels. Differential abundance findings were similar in crude and adjusted analyses.\nCONCLUSIONS: Results support a plausible link between tobacco exposure and shifts in the oral microbiome at the population level through three lines of evidence: (1) a shift in microbiota oxygen utilization associated with primary tobacco smoke exposure; (2) consistency of abundance fold changes associated with current smoking and shifts along the gradient of secondhand smoke exposure among nonsmokers; and (3) consistency after adjusting for a priori hypothesized confounders.",
+		"container-title": "Annals of Epidemiology",
+		"DOI": "10.1016/j.annepidem.2019.03.005",
+		"ISSN": "1873-2585",
+		"journalAbbreviation": "Ann Epidemiol",
+		"language": "eng",
+		"note": "PMID: 31076212\nPMCID: PMC6548637",
+		"page": "18-25.e3",
+		"source": "PubMed",
+		"title": "Tobacco exposure associated with oral microbiota oxygen utilization in the New York City Health and Nutrition Examination Study",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Beghini",
+				"given": "Francesco"
+			},
+			{
+				"family": "Renson",
+				"given": "Audrey"
+			},
+			{
+				"family": "Zolnik",
+				"given": "Christine P."
+			},
+			{
+				"family": "Geistlinger",
+				"given": "Ludwig"
+			},
+			{
+				"family": "Usyk",
+				"given": "Mykhaylo"
+			},
+			{
+				"family": "Moody",
+				"given": "Thomas U."
+			},
+			{
+				"family": "Thorpe",
+				"given": "Lorna"
+			},
+			{
+				"family": "Dowd",
+				"given": "Jennifer B."
+			},
+			{
+				"family": "Burk",
+				"given": "Robert"
+			},
+			{
+				"family": "Segata",
+				"given": "Nicola"
+			},
+			{
+				"family": "Jones",
+				"given": "Heidi E."
+			},
+			{
+				"family": "Waldron",
+				"given": "Levi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "zig",
+		"type": "article-journal",
+		"abstract": "We introduce a methodology to assess differential abundance in sparse high-throughput microbial marker-gene survey data. Our approach, implemented in the metagenomeSeq Bioconductor package, relies on a novel normalization technique and a statistical model that accounts for undersampling-a common feature of large-scale marker-gene studies. Using simulated data and several published microbiota data sets, we show that metagenomeSeq outperforms the tools currently used in this field.",
+		"container-title": "Nat. Methods",
+		"issue": "12",
+		"language": "en",
+		"page": "1200–1202",
+		"title": "Differential abundance analysis for microbial marker-gene surveys",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Paulson",
+				"given": "Joseph N"
+			},
+			{
+				"family": "Stine",
+				"given": "O Colin"
+			},
+			{
+				"family": "Bravo",
+				"given": "Héctor Corrada"
+			},
+			{
+				"family": "Pop",
+				"given": "Mihai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "plaque_dynamics",
+		"type": "article-journal",
+		"abstract": "The development of dental caries and periodontal diseases result from distinct shifts in the microbiota of the tooth-associated biofilm. This in vitro study aimed to investigate changes in biofilm composition and structure, during the shift from a 'supragingival' aerobic profile to a 'subgingival' anaerobic profile. Biofilms consisting of Actinomyces oris, Candida albicans, Fusobacterium nucleatum, Streptococcus oralis, Streptococcus mutans and Veillonella dispar were aerobically grown in saliva-containing medium on hydroxyapatite disks. After 64 h, Campylobacter rectus, Prevotella intermedia and Streptococcus anginosus were further added along with human serum, while culture conditions were shifted to microaerophilic. After 96 h, Porphyromonas gingivalis, Tannerella forsythia and Treponema denticola were finally added and the biofilm was grown anaerobically for another 64 h. At the end of each phase, biofilms were harvested for species-specific quantification and localization. Apart from C. albicans, all other species gradually increased during aerobic and microaerophilic conditions, but remained steady during anaerobic conditions. Biofilm thickness was doubled during the microaerophilic phase, but remained steady throughout the anaerobic phase. Extracellular polysaccharide presence was gradually reduced throughout the growth period. Biofilm viability was reduced during the microaerophilic conversion, but was recovered during the anaerobic phase. This in vitro study has characterized the dynamic structural shifts occurring in an oral biofilm model during the switch from aerobic to anaerobic conditions, potentially modeling the conversion of supragingival to subgingival biofilms. Within the limitations of this experimental model, the findings may provide novel insights into the ecology of oral biofilms.",
+		"container-title": "Molecular Oral Microbiology",
+		"DOI": "10.1111/omi.12108",
+		"ISSN": "2041-1014",
+		"issue": "2",
+		"language": "en",
+		"page": "125-135",
+		"source": "Wiley Online Library",
+		"title": "Microbial dynamics during conversion from supragingival to subgingival biofilms in an in vitro model",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/omi.12108",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Thurnheer",
+				"given": "T."
+			},
+			{
+				"family": "Bostanci",
+				"given": "N."
+			},
+			{
+				"family": "Belibasakis",
+				"given": "G. N."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "aldex2",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Experimental designs that take advantage of high-throughput sequencing to generate datasets include RNA sequencing (RNA-seq), chromatin immunoprecipitation sequencing (ChIP-seq), sequencing of 16S rRNA gene fragments, metagenomic analysis and selective growth experiments. In each case the underlying data are similar and are composed of counts of sequencing reads mapped to a large number of features in each sample. Despite this underlying similarity, the data analysis methods used for these experimental designs are all different, and do not translate across experiments. Alternative methods have been developed in the physical and geological sciences that treat similar data as compositions. Compositional data analysis methods transform the data to relative abundances with the result that the analyses are more robust and reproducible. RESULTS: Data from an in vitro selective growth experiment, an RNA-seq experiment and the Human Microbiome Project 16S rRNA gene abundance dataset were examined by ALDEx2, a compositional data analysis tool that uses Bayesian methods to infer technical and statistical error. The ALDEx2 approach is shown to be suitable for all three types of data: it correctly identifies both the direction and differential abundance of features in the differential growth experiment, it identifies a substantially similar set of differentially expressed genes in the RNA-seq dataset as the leading tools and it identifies as differential the taxa that distinguish the tongue dorsum and buccal mucosa in the Human Microbiome Project dataset. The design of ALDEx2 reduces the number of false positive identifications that result from datasets composed of many features in few samples. CONCLUSION: Statistical analysis of high-throughput sequencing datasets composed of per feature counts showed that the ALDEx2 R package is a simple and robust tool, which can be applied to RNA-seq, 16S rRNA gene sequencing and differential growth datasets, and by extension to other techniques that use a similar approach.",
+		"container-title": "Microbiome",
+		"language": "en",
+		"page": "15",
+		"title": "Unifying the analysis of high-throughput sequencing datasets: characterizing RNA-seq, 16S rRNA gene sequencing and selective growth experiments by compositional data analysis",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Fernandes",
+				"given": "Andrew D"
+			},
+			{
+				"family": "Reid",
+				"given": "Jennifer Ns"
+			},
+			{
+				"family": "Macklaim",
+				"given": "Jean M"
+			},
+			{
+				"family": "McMurrough",
+				"given": "Thomas A"
+			},
+			{
+				"family": "Edgell",
+				"given": "David R"
+			},
+			{
+				"family": "Gloor",
+				"given": "Gregory B"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "deseq2",
+		"type": "article-journal",
+		"abstract": "In comparative high-throughput sequencing assays, a fundamental task is the analysis of count data, such as read counts per gene in RNA-seq, for evidence of systematic changes across experimental conditions. Small replicate numbers, discreteness, large dynamic range and the presence of outliers require a suitable statistical approach. We present DESeq2, a method for differential analysis of count data, using shrinkage estimation for dispersions and fold changes to improve stability and interpretability of estimates. This enables a more quantitative analysis focused on the strength rather than the mere presence of differential expression. The DESeq2 package is available at http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html webcite.",
+		"container-title": "Genome Biol.",
+		"issue": "12",
+		"language": "en",
+		"page": "550",
+		"title": "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Love",
+				"given": "Michael I"
+			},
+			{
+				"family": "Huber",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Anders",
+				"given": "Simon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+        "id": "seurat",
+        "type": "article-journal",
+        "abstract": "Computational single-cell RNA-seq (scRNA-seq) methods have been successfully applied to experiments representing a single condition, technology, or species to discover and define cellular phenotypes. However, identifying subpopulations of cells that are present across multiple data sets remains challenging. Here, we introduce an analytical strategy for integrating scRNA-seq data sets based on common sources of variation, enabling the identification of shared populations across data sets and downstream comparative analysis. We apply this approach, implemented in our R toolkit Seurat (http://satijalab.org/seurat/), to align scRNA-seq data sets of peripheral blood mononuclear cells under resting and stimulated conditions, hematopoietic progenitors sequenced using two profiling technologies, and pancreatic cell 'atlases' generated from human and mouse islets. In each case, we learn distinct or transitional cell states jointly across data sets, while boosting statistical power through integrated analysis. Our approach facilitates general comparisons of scRNA-seq data sets, potentially deepening our understanding of how distinct cell states respond to perturbation, disease, and evolution.",
+        "container-title": "Nat. Biotechnol.",
+        "issue": "5",
+        "language": "en",
+        "page": "411–420",
+        "title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
+        "volume": "36",
+        "author": [
+            {
+                "family": "Butler",
+                "given": "Andrew"
+            },
+            {
+                "family": "Hoffman",
+                "given": "Paul"
+            },
+            {
+                "family": "Smibert",
+                "given": "Peter"
+            },
+            {
+                "family": "Papalexi",
+                "given": "Efthymia"
+            },
+            {
+                "family": "Satija",
+                "given": "Rahul"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    "2018",
+                    6
+                ]
+            ]
+        }
+    },
+	{
+		"id": "corncob",
+		"type": "article-journal",
+		"container-title": "The Annals of Applied Statistics",
+		"DOI": "10.1214/19-AOAS1283",
+		"ISSN": "1932-6157",
+		"issue": "1",
+		"journalAbbreviation": "Ann. Appl. Stat.",
+		"source": "DOI.org (Crossref)",
+		"title": "Modeling microbial abundances and dysbiosis with beta-binomial regression",
+		"URL": "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-1/Modeling-microbial-abundances-and-dysbiosis-with-beta-binomial-regression/10.1214/19-AOAS1283.full",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Martin",
+				"given": "Bryan D."
+			},
+			{
+				"family": "Witten",
+				"given": "Daniela"
+			},
+			{
+				"family": "Willis",
+				"given": "Amy D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "zinbweights",
+		"type": "article-journal",
+		"abstract": "Dropout events in single-cell RNA sequencing (scRNA-seq) cause many transcripts to go undetected and induce an excess of zero read counts, leading to power issues in differential expression (DE) analysis. This has triggered the development of bespoke scRNA-seq DE methods to cope with zero inflation. Recent evaluations, however, have shown that dedicated scRNA-seq tools provide no advantage compared to traditional bulk RNA-seq tools. We introduce a weighting strategy, based on a zero-inflated negative binomial model, that identifies excess zero counts and generates gene- and cell-specific weights to unlock bulk RNA-seq DE pipelines for zero-inflated data, boosting performance for scRNA-seq.",
+		"container-title": "Genome Biol.",
+		"issue": "1",
+		"language": "en",
+		"page": "24",
+		"title": "Observation weights unlock bulk RNA-seq tools for zero inflation and single-cell applications",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Van den Berge",
+				"given": "Koen"
+			},
+			{
+				"family": "Perraudeau",
+				"given": "Fanny"
+			},
+			{
+				"family": "Soneson",
+				"given": "Charlotte"
+			},
+			{
+				"family": "Love",
+				"given": "Michael I"
+			},
+			{
+				"family": "Risso",
+				"given": "Davide"
+			},
+			{
+				"family": "Vert",
+				"given": "Jean-Philippe"
+			},
+			{
+				"family": "Robinson",
+				"given": "Mark D"
+			},
+			{
+				"family": "Dudoit",
+				"given": "Sandrine"
+			},
+			{
+				"family": "Clement",
+				"given": "Lieven"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "edger",
+		"type": "article-journal",
+		"abstract": "SUMMARY: It is expected that emerging digital gene expression (DGE) technologies will overtake microarray technologies in the near future for many functional genomics applications. One of the fundamental data analysis tasks, especially for gene expression studies, involves determining whether there is evidence that counts for a transcript or exon are significantly different across experimental conditions. edgeR is a Bioconductor software package for examining differential expression of replicated count data. An overdispersed Poisson model is used to account for both biological and technical variability. Empirical Bayes methods are used to moderate the degree of overdispersion across transcripts, improving the reliability of inference. The methodology can be used even with the most minimal levels of replication, provided at least one phenotype or experimental condition is replicated. The software may have other applications beyond sequencing data, such as proteome peptide count data. AVAILABILITY: The package is freely available under the LGPL licence from the Bioconductor web site (http://bioconductor.org).",
+		"container-title": "Bioinformatics",
+		"issue": "1",
+		"language": "en",
+		"page": "139–140",
+		"title": "edgeR: a Bioconductor package for differential expression analysis of digital gene expression data",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Robinson",
+				"given": "Mark D"
+			},
+			{
+				"family": "McCarthy",
+				"given": "Davis J"
+			},
+			{
+				"family": "Smyth",
+				"given": "Gordon K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "HMP16SData",
+		"type": "article-journal",
+		"abstract": "Phase 1 of the Human Microbiome Project (HMP) investigated 18 body subsites of 242 healthy American adults to produce the first comprehensive reference for the composition and variation of the “healthy” human microbiome. Publicly available data sets from amplicon sequencing of two 16S ribosomal RNA variable regions, with extensive controlled-access participant data, provide a reference for ongoing microbiome studies. However, utilization of these data sets can be hindered by the complex bioinformatic steps required to access, import, decrypt, and merge the various components in formats suitable for ecological and statistical analysis. The HMP16SData package provides count data for both 16S ribosomal RNA variable regions, integrated with phylogeny, taxonomy, public participant data, and controlled participant data for authorized researchers, using standard integrative Bioconductor data objects. By removing bioinformatic hurdles of data access and management, HMP16SData enables epidemiologists with only basic R skills to quickly analyze HMP data.",
+		"container-title": "Am. J. Epidemiol.",
+		"issue": "6",
+		"language": "en",
+		"page": "1023–1026",
+		"title": "HMP16SData: Efficient Access to the Human Microbiome Project Through Bioconductor",
+		"volume": "188",
+		"author": [
+			{
+				"family": "Schiffer",
+				"given": "Lucas"
+			},
+			{
+				"family": "Azhar",
+				"given": "Rimsha"
+			},
+			{
+				"family": "Shepherd",
+				"given": "Lori"
+			},
+			{
+				"family": "Ramos",
+				"given": "Marcel"
+			},
+			{
+				"family": "Geistlinger",
+				"given": "Ludwig"
+			},
+			{
+				"family": "Huttenhower",
+				"given": "Curtis"
+			},
+			{
+				"family": "Dowd",
+				"given": "Jennifer B"
+			},
+			{
+				"family": "Segata",
+				"given": "Nicola"
+			},
+			{
+				"family": "Waldron",
+				"given": "Levi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "zinbwave",
+		"type": "article-journal",
+		"abstract": "Single-cell RNA-sequencing (scRNA-seq) is a powerful high-throughput technique that enables researchers to measure genome-wide transcription levels at the resolution of single cells. Because of the low amount of RNA present in a single cell, some genes may fail to be detected even though they are expressed; these genes are usually referred to as dropouts. Here, we present a general and flexible zero-inflated negative binomial model (ZINB-WaVE), which leads to low-dimensional representations of the data that account for zero inflation (dropouts), over-dispersion, and the count nature of the data. We demonstrate, with simulated and real data, that the model and its associated estimation procedure are able to give a more stable and accurate low-dimensional representation of the data than principal component analysis (PCA) and zero-inflated factor analysis (ZIFA), without the need for a preliminary normalization step.",
+		"container-title": "Nat. Commun.",
+		"issue": "1",
+		"language": "en",
+		"page": "284",
+		"title": "A general and flexible method for signal extraction from single-cell RNA-seq data",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Risso",
+				"given": "Davide"
+			},
+			{
+				"family": "Perraudeau",
+				"given": "Fanny"
+			},
+			{
+				"family": "Gribkova",
+				"given": "Svetlana"
+			},
+			{
+				"family": "Dudoit",
+				"given": "Sandrine"
+			},
+			{
+				"family": "Vert",
+				"given": "Jean-Philippe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "mast",
+		"type": "article-journal",
+		"container-title": "Genome Biology",
+		"DOI": "10.1186/s13059-015-0844-5",
+		"ISSN": "1474-760X",
+		"issue": "1",
+		"journalAbbreviation": "Genome Biol",
+		"language": "en",
+		"page": "278",
+		"source": "DOI.org (Crossref)",
+		"title": "MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data",
+		"title-short": "MAST",
+		"URL": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0844-5",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Finak",
+				"given": "Greg"
+			},
+			{
+				"family": "McDavid",
+				"given": "Andrew"
+			},
+			{
+				"family": "Yajima",
+				"given": "Masanao"
+			},
+			{
+				"family": "Deng",
+				"given": "Jingyuan"
+			},
+			{
+				"family": "Gersuk",
+				"given": "Vivian"
+			},
+			{
+				"family": "Shalek",
+				"given": "Alex K."
+			},
+			{
+				"family": "Slichter",
+				"given": "Chloe K."
+			},
+			{
+				"family": "Miller",
+				"given": "Hannah W."
+			},
+			{
+				"family": "McElrath",
+				"given": "M. Juliana"
+			},
+			{
+				"family": "Prlic",
+				"given": "Martin"
+			},
+			{
+				"family": "Linsley",
+				"given": "Peter S."
+			},
+			{
+				"family": "Gottardo",
+				"given": "Raphael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "MGLM",
+		"type": "article-journal",
+		"container-title": "Journal of Computational and Graphical Statistics",
+		"DOI": "10.1080/10618600.2016.1154063",
+		"ISSN": "1061-8600, 1537-2715",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Computational and Graphical Statistics",
+		"language": "en",
+		"page": "1-13",
+		"source": "DOI.org (Crossref)",
+		"title": "Regression Models for Multivariate Count Data",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/10618600.2016.1154063",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Yiwen"
+			},
+			{
+				"family": "Zhou",
+				"given": "Hua"
+			},
+			{
+				"family": "Zhou",
+				"given": "Jin"
+			},
+			{
+				"family": "Sun",
+				"given": "Wei"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "voom",
+		"type": "article-journal",
+		"abstract": "New normal linear modeling strategies are presented for analyzing read counts from RNA-seq experiments. The voom method estimates the mean-variance relationship of the log-counts, generates a precision weight for each observation and enters these into the limma empirical Bayes analysis pipeline. This opens access for RNA-seq analysts to a large body of methodology developed for microarrays. Simulation studies show that voom performs as well or better than count-based RNA-seq methods even when the data are generated according to the assumptions of the earlier methods. Two case studies illustrate the use of linear modeling and gene set testing methods.",
+		"container-title": "Genome Biol.",
+		"issue": "2",
+		"language": "en",
+		"page": "R29",
+		"title": "voom: Precision weights unlock linear model analysis tools for RNA-seq read counts",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Law",
+				"given": "Charity W"
+			},
+			{
+				"family": "Chen",
+				"given": "Yunshun"
+			},
+			{
+				"family": "Shi",
+				"given": "Wei"
+			},
+			{
+				"family": "Smyth",
+				"given": "Gordon K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "limma",
+		"type": "article-journal",
+		"container-title": "Nucleic Acids Research",
+		"DOI": "10.1093/nar/gkv007",
+		"ISSN": "1362-4962, 0305-1048",
+		"issue": "7",
+		"language": "en",
+		"page": "e47-e47",
+		"source": "DOI.org (Crossref)",
+		"title": "limma powers differential expression analyses for RNA-sequencing and microarray studies",
+		"URL": "http://academic.oup.com/nar/article/43/7/e47/2414268/limma-powers-differential-expression-analyses-for",
+		"volume": "43",
+		"author": [
+			{
+				"family": "Ritchie",
+				"given": "Matthew E."
+			},
+			{
+				"family": "Phipson",
+				"given": "Belinda"
+			},
+			{
+				"family": "Wu",
+				"given": "Di"
+			},
+			{
+				"family": "Hu",
+				"given": "Yifang"
+			},
+			{
+				"family": "Law",
+				"given": "Charity W."
+			},
+			{
+				"family": "Shi",
+				"given": "Wei"
+			},
+			{
+				"family": "Smyth",
+				"given": "Gordon K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					4,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "limmarnaseq",
+		"type": "article-journal",
+		"container-title": "The Annals of Applied Statistics",
+		"DOI": "10.1214/16-AOAS920",
+		"ISSN": "1932-6157",
+		"issue": "2",
+		"journalAbbreviation": "Ann. Appl. Stat.",
+		"source": "DOI.org (Crossref)",
+		"title": "Robust hyperparameter estimation protects against hypervariable genes and improves power to detect differential expression",
+		"URL": "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-2/Robust-hyperparameter-estimation-protects-against-hypervariable-genes-and-improves-power/10.1214/16-AOAS920.full",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Phipson",
+				"given": "Belinda"
+			},
+			{
+				"family": "Lee",
+				"given": "Stanley"
+			},
+			{
+				"family": "Majewski",
+				"given": "Ian J."
+			},
+			{
+				"family": "Alexander",
+				"given": "Warren S."
+			},
+			{
+				"family": "Smyth",
+				"given": "Gordon K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "MGLMpackage",
+		"type": "book",
+		"title": "MGLM: Multivariate Response Generalized Linear Models",
+		"URL": "https://CRAN.R-project.org/package=MGLM",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Yiwen"
+			},
+			{
+				"family": "Zhou",
+				"given": "Hua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+		{
+		"id": "ancom-ii",
+		"type": "article-journal",
+		"container-title": "Frontiers in Microbiology",
+		"DOI": "10.3389/fmicb.2017.02114",
+		"ISSN": "1664-302X",
+		"journalAbbreviation": "Front. Microbiol.",
+		"page": "2114",
+		"source": "DOI.org (Crossref)",
+		"title": "Analysis of Microbiome Data in the Presence of Excess Zeros",
+		"URL": "http://journal.frontiersin.org/article/10.3389/fmicb.2017.02114/full",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Kaul",
+				"given": "Abhishek"
+			},
+			{
+				"family": "Mandal",
+				"given": "Siddhartha"
+			},
+			{
+				"family": "Davidov",
+				"given": "Ori"
+			},
+			{
+				"family": "Peddada",
+				"given": "Shyamal D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "ancom-bc",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              Differential abundance (DA) analysis of microbiome data continues to be a challenging problem due to the complexity of the data. In this article we define the notion of “sampling fraction” and demonstrate a major hurdle in performing DA analysis of microbiome data is the bias introduced by differences in the sampling fractions across samples. We introduce a methodology called Analysis of Compositions of Microbiomes with Bias Correction (\n              ANCOM-BC\n              ), which estimates the unknown sampling fractions and corrects the bias induced by their differences among samples. The absolute abundance data are modeled using a linear regression framework. This formulation makes a fundamental advancement in the field because, unlike the existing methods, it (a) provides statistically valid test with appropriate p-values, (b) provides confidence intervals for differential abundance of each taxon, (c) controls the False Discovery Rate (FDR), (d) maintains adequate power, and (e) is computationally simple to implement.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-020-17041-7",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"page": "3514",
+		"source": "DOI.org (Crossref)",
+		"title": "Analysis of compositions of microbiomes with bias correction",
+		"URL": "http://www.nature.com/articles/s41467-020-17041-7",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Lin",
+				"given": "Huang"
+			},
+			{
+				"family": "Peddada",
+				"given": "Shyamal Das"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "dearseq",
+		"type": "article-journal",
+		"abstract": "Abstract\n            RNA-seq studies are growing in size and popularity. We provide evidence that the most commonly used methods for differential expression analysis (DEA) may yield too many false positive results in some situations. We present dearseq, a new method for DEA that controls the false discovery rate (FDR) without making any assumption about the true distribution of RNA-seq data. We show that dearseq controls the FDR while maintaining strong statistical power compared to the most popular methods. We demonstrate this behavior with mathematical proofs, simulations and a real data set from a study of tuberculosis, where our method produces fewer apparent false positives.",
+		"container-title": "NAR Genomics and Bioinformatics",
+		"DOI": "10.1093/nargab/lqaa093",
+		"ISSN": "2631-9268",
+		"issue": "4",
+		"language": "en",
+		"page": "lqaa093",
+		"source": "DOI.org (Crossref)",
+		"title": "dearseq: a variance component score test for RNA-seq differential analysis that effectively controls the false discovery rate",
+		"title-short": "dearseq",
+		"URL": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqaa093/5992116",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Gauthier",
+				"given": "Marine"
+			},
+			{
+				"family": "Agniel",
+				"given": "Denis"
+			},
+			{
+				"family": "Thiébaut",
+				"given": "Rodolphe"
+			},
+			{
+				"family": "Hejblum",
+				"given": "Boris P"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "noiseq",
+		"type": "article-journal",
+		"container-title": "Nucleic Acids Research",
+		"DOI": "10.1093/nar/gkv711",
+		"ISSN": "0305-1048, 1362-4962",
+		"journalAbbreviation": "Nucleic Acids Res",
+		"language": "en",
+		"page": "gkv711",
+		"source": "DOI.org (Crossref)",
+		"title": "Data quality aware analysis of differential expression in RNA-seq with NOISeq R/Bioc package",
+		"URL": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv711",
+		"author": [
+			{
+				"family": "Tarazona",
+				"given": "Sonia"
+			},
+			{
+				"family": "Furió-Tarí",
+				"given": "Pedro"
+			},
+			{
+				"family": "Turrà",
+				"given": "David"
+			},
+			{
+				"family": "Pietro",
+				"given": "Antonio Di"
+			},
+			{
+				"family": "Nueda",
+				"given": "María José"
+			},
+			{
+				"family": "Ferrer",
+				"given": "Alberto"
+			},
+			{
+				"family": "Conesa",
+				"given": "Ana"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7,
+					16
+				]
+			]
+		}
+	}
+]
