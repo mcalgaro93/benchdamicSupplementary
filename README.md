@@ -2,21 +2,13 @@
 
 # benchdamicSupplementary
 
-To produce the "supplementary_information.pdf" file please follow the next instructions, also contained in the "R/pkg_setting.R" file:
-
-- With the new version of detectseparation v0.3, corncob v0.2 stopped working. For this reason we need to make sure that the older version of detectseparation (v0.2) is installed:
-
-```
-library(remotes)
-install_version("detectseparation", version = "0.2")
-install_version("corncob", version = "0.2")
-```
-
-- install benchdamic version "backup_corncob":
+To produce the "supplementary_information.pdf" use benchdamic version 1.5.1:
 
 ```
 library(devtools)
-install_github("mcalgaro93/benchdamic", ref = "backup_corncob")
+install_github(
+    repo = "mcalgaro93/benchdamic", 
+    ref = "596ebcd417320e54b19d3d12a0ef4745f3b13586")
 ```
 
 - knit to pdf the "docs/supplementary_information.Rmd" file.
