@@ -30,15 +30,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86413659"
-     inkscape:cx="379.56962"
-     inkscape:cy="341.95983"
+     inkscape:cx="380.14824"
+     inkscape:cy="343.11705"
      inkscape:document-units="mm"
      inkscape:current-layer="g6047"
      showgrid="false"
      inkscape:snap-nodes="true"
      inkscape:snap-global="false"
      inkscape:window-width="1512"
-     inkscape:window-height="851"
+     inkscape:window-height="849"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
@@ -1020,7 +1020,7 @@
    id="tspan3832"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.264583">plotFPR</tspan>, <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
-   id="tspan1116">plotFDR,</tspan> <tspan
+   id="tspan1116">plotFDR</tspan>, <tspan
    id="tspan3834"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.264583">plotKS</tspan>, <tspan
    id="tspan3838"
